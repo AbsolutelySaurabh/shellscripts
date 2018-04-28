@@ -1,5 +1,7 @@
 #! /bin/bash
 #this is a comment
+#use, chmod +x file.sh --> to give write access
+
 echo "hello world" #this is also a comment
 
 # V A R I A B L E S in unix,
